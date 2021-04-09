@@ -4,7 +4,7 @@
 
 ### Steps to the workflow :
 
-#### Creating the Java App Using Gradle :
+>#### Creating the Java App Using Gradle :
 
 1-Generate a Java Application Sourcesets & buildScripts using gradle CLI using ```gradle init``` command in the project folder
 <br>
@@ -19,7 +19,7 @@
 6-Find the java jar build inside ```applicationExample/app/build/libs/app.jar``` & run it using ```java -jar app.jar``` to be sure of your results
 <br>
 
-#### Creating theb git repo & pushing files : 
+>#### Creating the git repo & pushing files : 
 
 1-run ```git init``` command in your root project directory, to initiliaze git local for this repo
 <br>
@@ -29,10 +29,12 @@
 <br>
 4-run ```gh repo create REPO-NAME``` to create a new empty git repository with the specified name
 <br>
-5-run ```git push origin main``` to push your code to the main origin branch
+5-run ```git checkout -b main``` to switch from the branch(```-b```) to a new branch named ```main``` (it will create it anyway)
+<br>
+6-run ```git push origin main``` to push your code to the ```main``` origin branch
 <br>
 
-### ```eg :``` : 
+### ```eg ``` :
 
 ```bash
 ┌─[twisted@parrot]─[~/GradleProjects/applicationExample]
