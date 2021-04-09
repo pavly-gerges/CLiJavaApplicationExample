@@ -1,6 +1,6 @@
 # CLiJavaApplicationExample
 
-## Welcome to the Java Application Training Plugin Example, using only github CLI gh tool,and gradle CLI :
+## Welcome to the Java Application Training Plugin Example, using only ```github CLI``` gh tool,and gradle CLI :
 
 ### Steps to the workflow :
 <ol>
