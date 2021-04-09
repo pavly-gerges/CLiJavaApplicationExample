@@ -14,8 +14,39 @@
 >github CLI (gh tool)
 
 1-Type ```snap install gh``` if you have snap-store
-2-Type ```gh -v``` to check it
+<br>
+2-Type ```gh --version``` to check it
+<br>
 
+>eg : 
+```bash
+┌─[twisted@parrot]─[~/GradleProjects/training1/lib/build/libs]
+└──╼ $gradle -v
+
+------------------------------------------------------------
+Gradle 6.7
+------------------------------------------------------------
+
+Build time:   2020-10-14 16:13:12 UTC
+Revision:     312ba9e0f4f8a02d01854d1ed743b79ed996dfd3
+
+Kotlin:       1.3.72
+Groovy:       2.5.12
+Ant:          Apache Ant(TM) version 1.10.8 compiled on May 10 2020
+JVM:          11.0.7-ea (Debian 11.0.7-ea+9-post-Debian-1)
+OS:           Linux 5.5.0-1parrot1-amd64 amd64
+
+```
+<br>
+```bash
+┌─[twisted@parrot]─[~/GradleProjects/training1/lib/build/libs]
+└──╼ $gh --version
+gh version 1.8.1-15-g9a9bad90 (2021-04-03)
+https://github.com/cli/cli/releases/latest
+```
+<br>
+------------------------------------------------------------------------------------------------------------
+<br>
 
 ### Steps to the workflow :
 
