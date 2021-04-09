@@ -2,6 +2,21 @@
 
 ## Welcome to the Java Application Training Plugin Example, using only ```github CLI``` gh tool, and ```gradle CLI``` :
 
+### Steps to install both ```gradle CLI``` & ```github CLI``` :
+
+>gradle build tool
+
+1-Type ```sdk install gradle 6.8.3``` if you are on ```UNIX``` based system
+<br>
+2-Type ``` gradle -v``` command to check the version
+<br>
+
+>github CLI (gh tool)
+
+1-Type ```snap install gh``` if you have snap-store
+2-Type ```gh -v``` to check it
+
+
 ### Steps to the workflow :
 
 >#### Creating the Java App Using Gradle :
