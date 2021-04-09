@@ -68,7 +68,7 @@ https://github.com/cli/cli/releases/latest
 
 ### Steps to the workflow :
 
->Creating the Java App Using Gradle :
+>#### Creating the Java App Using Gradle :
 
 1-Generate a Java Application Sourcesets & buildScripts using gradle CLI using ```gradle init``` command in the project folder
 <br>
