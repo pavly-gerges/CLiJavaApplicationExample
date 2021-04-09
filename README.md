@@ -19,7 +19,9 @@
 <br>
 
 >eg : 
+
 ```bash
+
 ┌─[twisted@parrot]─[~/GradleProjects/training1/lib/build/libs]
 └──╼ $gradle -v
 
@@ -38,12 +40,16 @@ OS:           Linux 5.5.0-1parrot1-amd64 amd64
 
 ```
 <br>
+
 ```bash
+
 ┌─[twisted@parrot]─[~/GradleProjects/training1/lib/build/libs]
 └──╼ $gh --version
 gh version 1.8.1-15-g9a9bad90 (2021-04-03)
 https://github.com/cli/cli/releases/latest
+
 ```
+
 <br>
 ------------------------------------------------------------------------------------------------------------
 <br>
