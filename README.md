@@ -4,7 +4,7 @@
 
 ### Steps to the workflow :
 <ol>
-<li>Generate a Java Application Sourcesets & buildScripts using gradle CLI using ```gradle init``` command in the project folder</li>
+<li>Generate a Java Application Sourcesets & buildScripts using gradle CLI using <mark color="yellow">gradle init</mark> command in the project folder</li>
 <li>Configure a manifest block inside the ```build.gradle``` to accept building ```jar``` files with the ```main.java``` class in mind</li>
 <li>Compile & build files using ```build.gradle```</li>
 <li>Run the raw java main class using ```./gradlew run``` </li>
