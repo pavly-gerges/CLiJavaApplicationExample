@@ -14,9 +14,9 @@
 >github CLI (gh tool)
 
 1-install git cores first :
-     * >```sudo apt-get update```
-     * >```sudo apt-get install git-all```
-     * >```git version```
+     - >```sudo apt-get update```
+     - >```sudo apt-get install git-all```
+     - >```git version```
 <br>
 2-then install gitCLI, using ```snap install gh``` if you have snap-store
 <br>
@@ -68,7 +68,7 @@ https://github.com/cli/cli/releases/latest
 
 ### Steps to the workflow :
 
->#### Creating the Java App Using Gradle :
+>Creating the Java App Using Gradle :
 
 1-Generate a Java Application Sourcesets & buildScripts using gradle CLI using ```gradle init``` command in the project folder
 <br>
@@ -159,7 +159,7 @@ To https://github.com/Scrappers-glitch/CLiJavaApplicationExample.git
 └──╼ $
 ```
 
-$ Ref :
+### $ Ref :
 
 https://gradle.org/install/
 
