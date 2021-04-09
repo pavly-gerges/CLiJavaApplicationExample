@@ -13,9 +13,14 @@
 
 >github CLI (gh tool)
 
-1-Type ```snap install gh``` if you have snap-store
+1-install git cores first :
+     * >```sudo apt-get update```
+     * >```sudo apt-get install git-all```
+     * >```git version```
 <br>
-2-Type ```gh --version``` to check it
+2-then install gitCLI, using ```snap install gh``` if you have snap-store
+<br>
+3-Type ```gh --version``` to check it
 <br>
 
 >eg : 
@@ -38,6 +43,13 @@ Ant:          Apache Ant(TM) version 1.10.8 compiled on May 10 2020
 JVM:          11.0.7-ea (Debian 11.0.7-ea+9-post-Debian-1)
 OS:           Linux 5.5.0-1parrot1-amd64 amd64
 
+```
+<br>
+
+```bash
+┌─[twisted@parrot]─[~/GradleProjects/applicationExample]
+└──╼ $git version
+git version 2.26.2
 ```
 <br>
 
@@ -146,3 +158,8 @@ To https://github.com/Scrappers-glitch/CLiJavaApplicationExample.git
 ┌─[twisted@parrot]─[~/GradleProjects/applicationExample]
 └──╼ $
 ```
+
+$ Ref :
+
+https://gradle.org/install/
+
