@@ -89,7 +89,7 @@ https://github.com/cli/cli/releases/latest
 <br>
 2-run ```git add .``` command to add the current directory to the local it files inside ```.git``` folder in your root directory
 <br>
-3-run ```git commit -m "Commit Message``` to do commit the current files to the master branch
+3-run ```git commit -m "Commit Message"``` to do commit the current files to the master branch
 <br>
 4-run ```gh repo create REPO-NAME``` to create a new empty git repository with the specified name
 <br>
